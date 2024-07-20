@@ -12,7 +12,7 @@ import seaborn as sns
 
 # Storing data in dataframe
 
-df=pd.read_csv(r"Customer_final.csv")
+df=pd.read_csv(r"Customer_Final.csv")
 # This will help us to plot graphs (its just raw_df (after data preprocessing)+ cluster column)
 
 # It contains the final data along with ClusterID and Country name
