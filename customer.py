@@ -101,7 +101,7 @@ if page=='Home':
             make every interaction more meaningful.
              You can download the dataset from 
             <a href="https://www.kaggle.com/datasets/tunguz/online-retail" target="_blank">here</a>, for complete details, you can refer to my 
-            <a href="https://colab.research.google.com/drive/1Kj_4AaPEB-jL5N19wJUI1DP2-2arMOIq?authuser=1" target="_blank">notebook here</a>. 
+            <a href="https://github.com/RuchiF/Customer-Segmentation-App">Github repository here</a>. 
             </p> """ , unsafe_allow_html=True)
     st.write('---')
     st.write(' ## ➡ Description of the Dataset', unsafe_allow_html=True)
